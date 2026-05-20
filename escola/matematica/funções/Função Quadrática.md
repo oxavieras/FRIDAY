@@ -1,0 +1,3 @@
+Aqui entra o x² na jogada. A regra é **f(x) = ax² + bx + c**, e o gráfico deixa de ser uma reta e vira uma curva chamada **parábola** — aquela forma de "U" (ou "∩", dependendo do sinal de _a_).
+
+Essa função é super importante porque descreve muita coisa real: a trajetória de uma bola chutada, a queda livre de um objeto, o lucro máximo de uma empresa. Sempre que algo _cresce, atinge um pico e depois cai_ (ou vice-versa), tem uma quadrática envolvida.

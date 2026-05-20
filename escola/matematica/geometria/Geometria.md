@@ -1,0 +1,1 @@
+Geometria é o ramo da Matemática que estuda **formas, espaços, tamanhos e posições**. No Ensino Médio, ela aparece em dois grandes blocos: [[Geometria Plana]], [[Geometria Espacial]] e [[Geometria Analitica]].

@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "e7a876895fb12f66",
+    "type": "split",
+    "children": [
+      {
+        "id": "fddb50c3f3a0a45b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec6d9cecdc1ea64e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e9fc7766684b81e",
+    "type": "split",
+    "children": [
+      {
+        "id": "72e5e98534904761",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29695147669c7ec4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa761b4435259ac0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1c902472162fc464",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dd5c96e5675e3840",
+    "type": "split",
+    "children": [
+      {
+        "id": "da5ab749aa526b91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76ae6a0aa3f9df3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "388a97e6b8067274",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6bd0094dc623f946",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "763fd906eba99f88",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "d8c97327c94d9fe1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GIT.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of GIT"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "29695147669c7ec4",
+  "lastOpenFiles": [
+    "escola/quimica/funçõesinorganicas/Funções inorganicas.md",
+    "escola/matematica/funções/Funções.md",
+    "escola/matematica/Conjuntos.md",
+    "escola/matematica/geometria/Circunferência.md",
+    "escola/matematica/funções/Função Logarítmica.md",
+    "escola/matematica/funções/Função Exponencial.md",
+    "escola/matematica/funções/Função Quadrática.md",
+    "escola/matematica/funções/Função Afim (ou Linear).md",
+    "escola/matematica/funções/Domínio, contradomínio e imagem.md",
+    "escola/matematica/funções/Função Sobrejetora.md",
+    "escola/matematica/funções/Função Injetora.md",
+    "escola/matematica/geometria/Geometria.md",
+    "escola/matematica/geometria/Geometria Analitica.md",
+    "escola/matematica/geometria/Ponto.md",
+    "escola/quimica/funçõesinorganicas/Acidos.md",
+    "escola/matematica/geometria/Reta.md",
+    "escola/matematica/geometria/Geometria Plana.md",
+    "escola/matematica/geometria/Poliedros.md",
+    "escola/matematica/geometria/Geometria Espacial.md",
+    "escola/matematica/geometria/Sólidos de revolução.md",
+    "escola/Untitled",
+    "escola/fisica",
+    "escola/quimica/funçõesinorganicas",
+    "escola/matematica/funções",
+    "escola/matematica/geometria",
+    "Untitled.canvas",
+    "t.i/Fluxograma.md",
+    "t.i/Bash & Shell Scripting.md",
+    "t.i/Logica de Programação.md",
+    "1imagens/Pasted image 20260519224547.png",
+    "1imagens",
+    "Pasted image 20260519214404.png.md",
+    "Pasted image 20260519214404.png",
+    "t.i/Algoritimos.md",
+    "escola/quimica/Nomenclaturas das Funções Inorgânicas.md",
+    "escola/geografia",
+    "escola/historia",
+    "escola/portugues",
+    "escola/matematica"
+  ]
+}

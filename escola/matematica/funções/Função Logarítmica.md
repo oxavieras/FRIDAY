@@ -1,0 +1,3 @@
+Ela é basicamente o **inverso da exponencial**. Se a exponencial responde "qual é o resultado de elevar _a_ à potência x?", o logaritmo responde "qual potência preciso usar em _a_ pra chegar nesse resultado?".
+
+A regra é **f(x) = logₐ(x)**, e o gráfico cresce bem devagar — é o oposto do crescimento explosivo da exponencial. Aparece bastante em escala de pH (química), escala Richter (sismos) e decibéis (som)

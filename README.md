@@ -1,0 +1,2 @@
+# FRIDAY
+Anotações do Obsidian
